@@ -4,7 +4,10 @@
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
 Just another documentation theme compatible with GitHub Pages
+
+jshshsm
 ![Image](https://github.com/imoisharma/jekyll-rtd-theme/blob/develop/assets/images/QuickTutorial_03.png)
+
 ## What it does?
 
 This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
